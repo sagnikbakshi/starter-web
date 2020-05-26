@@ -1,3 +1,7 @@
 # This is the first line and will be pushed to github
 
 # This is the second line - file will be committed but not pushed
+
+# This is the third line - fill will be staged
+
+# This is the fourth line - file only in working dir
